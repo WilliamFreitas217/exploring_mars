@@ -62,3 +62,10 @@ Por último, temos as funções de entrada.
 
 A primeira função captura a entrada que é passada por um arquivo.
 Já a segunda cria valores aleatórios criados para testar o algoritmo.
+
+# Instruções para rodar: 
+1. Abra o terminal
+2. Execute: 
+   1. python exploring_mars.py 5 [Para o teste aleatório]
+   2. python exploring_mars.py [Para rodar com a entrada passada por arquivo]
+      1. Se quiser editar a entrada, basta editar o arquivo ExploringMars/input.txt 
